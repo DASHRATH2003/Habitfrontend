@@ -72,7 +72,7 @@ newcompanytask/
    npm start
    ```
    
-   The backend server will start on **http://localhost:3001**
+   The backend server will start on **http://localhost:5000**
 
    **Alternative (with auto-restart for development):**
    ```bash
@@ -97,7 +97,7 @@ newcompanytask/
    npm run dev
    ```
    
-   The frontend will start on **http://localhost:5173**
+   The frontend will start on **http://localhost:3000**
 
 ## Running the Application
 
@@ -108,16 +108,16 @@ newcompanytask/
    cd Backend
    npm start
    ```
-   ✅ Backend running on http://localhost:3001
+   ✅ Backend running on http://localhost:5000
 
 2. **Start the frontend server** (Terminal 2):
    ```bash
    cd Frontend
    npm run dev
    ```
-   ✅ Frontend running on http://localhost:5173
+   ✅ Frontend running on http://localhost:3000
 
-3. **Open your browser** and navigate to http://localhost:5173
+3. **Open your browser** and navigate to http://localhost:3000
 
 ### Frontend Only (Local Storage)
 
